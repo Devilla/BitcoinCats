@@ -5,7 +5,7 @@ pragma solidity ^0.8.9;
 // BitcoinCats contract
 // ----------------------------------------------------------------------------------------------
 
-contract BitoinCats {
+contract BitcoinCats {
 
     /* modifier to add to function that should only be callable by contract owner */
     modifier onlyBy(address _account)
