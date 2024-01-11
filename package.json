@@ -1,0 +1,29 @@
+{
+  "name": "bitcoincats",
+  "version": "1.0.0",
+  "description": "A marketplace for bitcoin cats.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hrdhat\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Ca\u001b[C\u001b[C\u001b[D\u001b[Drdhat\u001b[2~ test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devilla/BitcoinCats.git"
+  },
+  "keywords": [
+    "bitcoin",
+    "cats"
+  ],
+  "author": "Devilla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Devilla/BitcoinCats/issues"
+  },
+  "homepage": "https://github.com/Devilla/BitcoinCats#readme",
+  "dependencies": {
+    "hardhat": "^2.19.4"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0"
+  }
+}
