@@ -20,7 +20,7 @@ contract BitcoinCats {
 
     /* Variables to store contract owner and contract token standard details */
     address owner;
-    string public standard = 'BitoinCats';
+    string public standard = 'BitcoinCats';
     string public name;
     string public symbol;
     uint8 public decimals;
